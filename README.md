@@ -1,7 +1,7 @@
 # Absher: Evaluating the Linguistic and Cultural Competence of LLMs in Saudi Dialects
 
 
-[![Paper](https://img.shields.io/badge/paper-arXiv:2507.10216-lightgrey)]([paper.md](https://arxiv.org/abs/2507.10216))
+[![Paper](https://img.shields.io/badge/paper-arXiv:2507.10216-lightgrey)]([paper.md](https://arxiv.org/abs/2507.10216)
 [![Task](https://img.shields.io/badge/task-benchmark-orange)](#overview)
 [![Language](https://img.shields.io/badge/language-Arabic-blue)](#dataset-description)
 [![Format](https://img.shields.io/badge/questions-multiple--choice-blueviolet)](#task-types)
