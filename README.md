@@ -1,4 +1,10 @@
-# Absher: Evaluating LLMs’ Linguistic and Cultural Competence in Saudi Dialects
+# Absher: Evaluating the Linguistic and Cultural Competence of LLMs in Saudi Dialects
+
+
+![Task](https://img.shields.io/badge/task-benchmark-orange)
+![Language](https://img.shields.io/badge/language-Arabic-blue)
+![Format](https://img.shields.io/badge/questions-multiple--choice-blueviolet)
+![Size](https://img.shields.io/badge/items-18k+-success)
 
 ## Overview
 Absher is a culturally grounded benchmark designed to evaluate the ability of Large Language Models (LLMs) to understand Saudi Arabic dialects and their associated cultural knowledge. Existing evaluation benchmarks often focus on Modern Standard Arabic or high-resource languages, overlooking the rich regional and cultural diversity of Saudi Arabia.
