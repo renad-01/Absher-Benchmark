@@ -11,10 +11,10 @@ Absher includes curated **words, phrases, and proverbs**, transformed into struc
 ## Dataset Overview
 
 <p align="center">
-  <img src="Absher_Overview.png" alt="Overview of the Absher benchmark" width="85%">
+  <img src="Absher_Overview.png" alt="Overview of the Absher benchmark" width="75%">
 </p>
 
-<p align="center">
+<p align="left">
   <em>
   Overview of Absher, covering all regions of Saudi Arabia (five specific regions and one general category),
   and presenting representative examples from its three content types: words, phrases, and proverbs.
@@ -82,8 +82,6 @@ This diversity enables evaluation of both region-specific and shared cultural kn
 ---
 
 ## Citation
-
-If you use this dataset in academic work, please cite:
 
 ```bibtex
 @misc{almonef2025wordsproverbsevaluatingllms,
