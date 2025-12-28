@@ -16,7 +16,7 @@ To address this gap, Absher provides a large-scale collection of **over 18,000 m
 ## Dataset Overview
 
 <p align="center">
-  <img src="Absher_Overview.png" alt="Overview of the Absher benchmark" width="75%">
+  <img src="Absher-Overview.png" alt="Overview of the Absher benchmark" width="75%">
 </p>
 
 <p align="left">
