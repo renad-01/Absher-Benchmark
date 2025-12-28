@@ -1,7 +1,7 @@
 # Absher: Evaluating the Linguistic and Cultural Competence of LLMs in Saudi Dialects
 
 
-[![Paper](https://img.shields.io/badge/paper-arXiv:2507.10216-lightgrey)](paper.md)
+[![Paper](https://img.shields.io/badge/paper-arXiv:2507.10216-lightgrey)]([paper.md](https://arxiv.org/abs/2507.10216))
 [![Task](https://img.shields.io/badge/task-benchmark-orange)](#overview)
 [![Language](https://img.shields.io/badge/language-Arabic-blue)](#dataset-description)
 [![Format](https://img.shields.io/badge/questions-multiple--choice-blueviolet)](#task-types)
@@ -49,7 +49,7 @@ Each entry is enriched with contextual and regional information and used to gene
 
 ## Task Types
 
-Absher supports six complementary evaluation task types:
+Absher supports six complementary multiple-choice evaluation task types:
 
 1. **Meaning** – Identify the correct meaning of a given word, phrase, or proverb  
 2. **True / False** – Verify the correctness of a statement related to the item  
