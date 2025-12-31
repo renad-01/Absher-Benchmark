@@ -79,12 +79,12 @@ This diversity enables evaluation of both region-specific and shared cultural kn
 
 ## Dataset Statistics
 
-| Category  | Raw Items | Filtered Items | Generated Questions |
-|----------|------------|----------------|---------------------|
-| Words     | 4,428      | 2,533          | 15,198              |
-| Phrases   | 869        | 478            | 2,868               |
-| Proverbs  | 186        | 83             | 498                 |
-| **Total** | **5,483**  | **3,094**      | **18,564**          |
+| Category | Terms | Questions |
+|----------|-------|-----------|
+| Words    | 2,533 | 15,198    |
+| Phrases  | 478   | 2,868     |
+| Proverbs | 83    | 498       |
+| **Total**| **3,094**  | **18,564**  |
 
 ---
 
