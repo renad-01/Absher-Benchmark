@@ -106,6 +106,13 @@ All files follow a consistent structure and contain **five columns**:
 >  **Note:** **All questions were generated using Large Language Model (LLM).**
 
 ---
+## 🌟 Acknowledgments
+
+We would like to acknowledge the team behind the interactive cultural website "**Cultural Identity of the Kingdom**" for utilizing the Absher benchmark as one of the resources integrated into the platform.
+
+🔗 https://saudiculture.malhaig.online/
+
+---
 ## Citation
 
 ```bibtex
