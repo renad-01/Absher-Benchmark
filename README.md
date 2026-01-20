@@ -106,11 +106,13 @@ All files follow a consistent structure and contain **five columns**:
 >  **Note:** **All questions were generated using Large Language Model (LLM).**
 
 ---
-## 🌟 Acknowledgments
-
-We would like to acknowledge the team behind the interactive cultural website "**Cultural Identity of the Kingdom**" for utilizing the Absher benchmark as one of the resources integrated into the platform.
+## 🌟 Demo
 
 🔗 https://saudiculture.malhaig.online/
+
+This interactive website "**Cultural Identity of the Kingdom**" has integrated our Absher dataset to help researchers and the public explore the rich diversity of Saudi culture. 
+
+We would like to acknowledge the team behind the website for utilizing the Absher benchmark as one of the resources integrated into the platform.
 
 ---
 ## Citation
